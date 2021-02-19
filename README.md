@@ -1,6 +1,6 @@
 # histogram-of-oriented-gradients-HOG-with-svm-classifier-GUI
 #### Hog and svm to create a model that you choice by give your images to the classifier to create your own modele.
-#### this project use Python3.8, opencv adn PyQt5 for Gui 
+#### this project use Python3.8, opencv and PyQt5 for Gui 
 
 ### Features 
   - Simple UI
